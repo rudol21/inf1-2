@@ -1,0 +1,39 @@
+1 Brasilia Ake je klavne mesto Brazilie?
+2 Santiago Ake je klavne mesto Cile?
+3 Bogota Ake je klavne mesto Kolumbie?
+4 Quito Ake je hlavne mesto Ekvadoru?
+5 Stanley Ake je hlavne mesto Francuzskej Quyany?
+6 Georgetown Ake je hlavne mesto Quyany?
+7 Asuncion Ake je hlavne mesto Paraquaja?
+8 Lima Ake je hlavne mesto Peru?
+9 Grytviken Ake je hlavne mesto Juznej Georgie a Juznych Sandwichovich ostrovov?
+10 Paramaribo Ake je hlavne mesto Surinamu?
+11 Montevideo Ake je hlavne mesto Uruguaja?
+12 Caracas Ake je hlavne mesto Venezuela?
+13 Albany Ake je hlavne mesto New Yorku?
+14 Treton Ake je hlavne mesto New Jersey?
+15 Harrisburg Ake je hlavne mesto Pennysalvania?
+16 Boston Ake je hlavne mesto Massachusetts?
+17 Frankfort Ake je hlavne mesto Kentucky?
+18 Nashville Ake je hlavne mesto Tennessee?
+19 Montgomery Ake je hlavne mesto Alabamy?
+20 Jackson Ake je hlavne mesto Mississippi?
+21 Austin Ake je klavne mesto Texasu?
+22 Phoenix Ake je klavne mesto Arizona?
+23 Denver Ake je klavne mesto Colorada?
+24 Cheyenne Ake je hlavne mesto Wyomingu?
+25 Boise Ake je hlavne mesto Idahu?
+26 Helena Ake je hlavne mesto Montany?
+27 Salem Ake je hlavne mesto Oregonu?
+28 Sacramento Ake je hlavne mesto Kalifornie?
+29 Honolulu Ake je hlavne mesto Havajskych ostrovoch?
+30 Juneau Ake je hlavne mesto Aljasky?
+31 Bismarck Ake je hlavne mesto Severnej Dakoty?
+32 Pierre Ake je hlavne mesto Juznej Dakoty?
+33 Lincoln Ake je hlavne mesto Nebrasky?
+34 Topeka Ake je hlavne mesto Kansasu?
+35 Madison Ake je hlavne mesto Wisconcinu?
+36 Springfiled Ake je hlavne mesto Illinoisu?
+37 Indianapolis Ake je hlavne mesto Indiany?
+38 Columbus Ake je hlavne mesto Ohio?
+39 Lansing Ake je hlavne mesto Michigan?

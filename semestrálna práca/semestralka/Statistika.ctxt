@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Statistika()
+comment0.text=\r\n\ Bezparametrick\u00FD\ kon\u0161truktor.\r\n
+comment1.params=hrac\ pocBodov\ pakontinent
+comment1.target=void\ uloz(java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Met\u00F3da\ uloz\ na\u010D\u00EDta\ hodnoty\ posledn\u00E9ho\ sutaziaceho.\r\n\ A\ zavol\u00E1\ med\u00F3dy\ getStatistiku(),\ zapisSkoreHracaArray(),\r\n\ zapisSkoreHracaDoSuboru(),\ vypisStatistiku().\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStatistiku()
+comment2.text=\r\n\ Met\u00F3da\ getStatistiku\ prirad\u00ED\ pomocou\ switch\ case\ ot\u00E1zkam\ prisl\u00FAchaj\u00FAci\ s\u00FAbor\ \u0161tatistiku.\r\n\ \r\n\ @return\ n\u00E1zov\ s\u00FAboru\r\n
+comment3.params=
+comment3.target=void\ zapisSkoreHracaArray()
+comment3.text=\r\n\ Met\u00F3da\ zapisSkoreHracaArray\ zap\u00ED\u0161e\ do\ ArrayListu\ hodnoty\ zo\ s\u00FAbora\ +\ hodnoty\ posledn\u00E9ho\ s\u00FA\u0165a\u017Eiaceho.\r\n
+comment4.params=
+comment4.target=void\ zapisSkoreHracaDoSuboru()
+comment4.text=\r\n\ Met\u00F3da\ zapisSkoreHracaDoSuboru\ zap\u00ED\u0161e\ do\ prisl\u00FAchaj\u00FAceho\ s\u00FAboru\r\n\ zoznam\ hr\u00E1\u010Dov\ zoraden\u00FDch\ podla\ v\u00FD\u0161ky\ celkov\u00E9ho\ sk\u00F3re.\r\n
+comment5.params=
+comment5.target=void\ vypisStatistiku()
+comment5.text=\r\n\ Met\u00F3da\ vypisStatistiku\ vyp\u00ED\u0161e\ zoznam\ hr\u00E1\u010Dov\ do\ konzoly.\r\n
+numComments=6

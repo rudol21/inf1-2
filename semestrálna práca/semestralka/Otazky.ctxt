@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Otazky()
+comment0.text=\r\n\ Bezparametrick\u00FD\ kon\u0161truktor.\r\n
+comment1.params=
+comment1.target=void\ zadajTypOtazok()
+comment1.text=\r\n\ Met\u00F3da\ ktor\u00E1\ na\u010D\u00EDta\ oblas\u0165\ z\ ktorej\ chce\ s\u00FA\u0165a\u017Eiaci\ ot\u00E1zky.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTypOtazok()
+comment2.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vr\u00E1ti\ typ\ ot\u00E1zok.\r\n\ \r\n\ @return\ n\u00E1zov\ textov\u00E9ho\ s\u00FAboru\ \r\n
+comment3.params=
+comment3.target=int\ getPocetOtazok()
+comment3.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vr\u00E1ti\ po\u010Det\ ot\u00E1zok\ v\ danom\ s\u00FAbore.\r\n\ T\u00E1to\ hodnota\ sa\ pou\u017E\u00EDva\ dalej\ pri\ generovan\u00ED\ n\u00E1hodnej\ ot\u00E1zky.\r\n\ \r\n\ @return\ po\u010Det\ ot\u00E1zok\ \r\n
+comment4.params=
+comment4.target=void\ dajOtazku()
+comment4.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vygeneruje\ ot\u00E1zku\ zo\ s\u00FAboru\ a\ na\u010D\u00EDtava\ odpoved.\r\n\ Ak\ je\ zadan\u00E1\ odpoved\ spr\u00E1vna\ su\u0165a\u017Eiacemu\ sa\ pripo\u010D\u00EDtaju\ 4\ body.\r\n\ Ak\ si\ s\u00FA\u0165a\u017Eiaci\ vyp\u00FDta\ p\u00EDsmenko\ tak\ sa\ od\ bodov\ za\ spr\u00E1vnu\ odpove\u010F\r\n\ odpo\u010D\u00EDta\ diferenci\u00E1l(diferenci\u00E1l\ \=\ 4\ /\ po\u010Det\ p\u00EDsmenok\ odpovede).\r\n\ Ak\ je\ zadan\u00E1\ odpoved\ nespr\u00E1vna\ su\u0165aziaci\ z\u00EDskava\ 0\ bodov.\r\n\ Tento\ cyklus\ sa\ opakuje\ 5\ kr\u00E1t.\r\n
+comment5.params=
+comment5.target=java.lang.String\ pismenko()
+comment5.text=\r\n\ Met\u00F3da\ ktor\u00E1\ n\u00E1hodne\ vygeneruje\ jedno\ p\u00EDsmenko\ odpovede.\r\n\ \r\n\ @return\ 1\ p\u00EDsmenko\ z\ odpovede\ \r\n
+comment6.params=
+comment6.target=double\ body()
+comment6.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vr\u00E1ti\ body\ za\ aktu\u00E1lnu\ odpove\u010F\ \r\n\ po\ odpo\u010D\u00EDtan\u00ED\ diferenci\u00E1lu\ (v\u00E1hy\ jedneho\ p\u00EDsmenka).\r\n\ \r\n\ @return\ po\u010Det\ bodov\ za\ odpove\u010F\ \r\n
+comment7.params=
+comment7.target=double\ bodyZaNespravnuOdp()
+comment7.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vr\u00E1ti\ body\ za\ nesp\u00E1vnu\ odpove\u010F.\r\n\ \r\n\ @return\ po\u010Det\ bodov\ za\ nesp\u00E1vnu\ odpove\u010F\ \r\n
+comment8.params=
+comment8.target=void\ bodyCelkovo()
+comment8.text=\r\n\ Met\u00F3da\ ktor\u00E1\ k\ celkov\u00E9mu\ po\u010Dtu\ bodov\ pripo\u010D\u00EDta\ body\ za\ aktu\u00E1lnu\ odpove\u010F.\r\n
+comment9.params=
+comment9.target=double\ getbodyCelkovo()
+comment9.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vr\u00E1ti\ celkov\u00FD\ po\u010Det\ bodov.\r\n\ \r\n\ @return\ celkov\u00FD\ po\u010Det\ bodov\ \r\n
+numComments=10

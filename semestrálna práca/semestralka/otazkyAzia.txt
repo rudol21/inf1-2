@@ -1,0 +1,35 @@
+1 Kabul Ake je klavne mesto Afganistanu?
+2 Jerevan Ake je klavne mesto Armenska?
+3 Baku Ake je klavne mesto Azerbajdzanu?
+4 Manama Ake je hlavne mesto Bahrajnu?
+5 Dhaka Ake je hlavne mesto Bangladesa?
+6 Thimphu Ake je hlavne mesto Bhutanu?
+7 Nikozia Ake je hlavne mesto Cyprusu?
+8 Peking Ake je hlavne mesto Cini?
+9 Manila Ake je hlavne mesto Filipin?
+10 Tbilisi Ake je hlavne mesto Gruzinska?
+11 Jakarta Ake je hlavne mesto Indonezie?
+12 Bagdad Ake je hlavne mesto Iraku?
+13 Teheran Ake je hlavne mesto Iranu?
+14 Jeruzalem Ake je hlavne mesto Izraela?
+15 Tokio Ake je hlavne mesto Japoska?
+16 Sana Ake je hlavne mesto Jemenu?
+17 Amman Ake je hlavne mesto Jordanska?
+18 Doha Ake je hlavne mesto Kataru?
+19 Astana Ake je hlavne mesto Kazachstanu?
+20 Pchongjang Ake je hlavne mesto KLDR?
+21 Soul Ake je klavne mesto Korejskej republiky?
+22 Kuvajt Ake je klavne mesto Kuvajtu?
+23 Vietnian Ake je klavne mesto Laosu?
+24 Bejrut Ake je hlavne mesto Libanonu?
+25 Neipyijto Ake je hlavne mesto Mjanmarska?
+26 Ulanbatar Ake je hlavne mesto Mongolska?
+27 Kathmandu Ake je hlavne mesto Nepalu?
+28 Maskat Ake je hlavne mesto Omanu?
+29 Islamabad Ake je hlavne mesto Pakistanu?
+30 Singapur Ake je hlavne mesto Singapuru?
+31 Kolombo Ake je hlavne mesto Sri Lanky?
+32 Damask Ake je hlavne mesto Syrie?
+33 Bangkok Ake je hlavne mesto Thajska?
+34 Ankara Ake je hlavne mesto Turecka?
+35 Hanoj Ake je hlavne mesto Vietnamu?

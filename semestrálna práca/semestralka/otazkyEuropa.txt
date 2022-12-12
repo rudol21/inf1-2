@@ -1,0 +1,38 @@
+1 Bratislava Ake je klavne mesto Slovenska?
+2 Kodan Ake je klavne mesto Danska?
+3 Helsinki Ake je klavne mesto Finska?
+4 Oslo Ake je hlavne mesto Norska?
+5 Stockholm Ake je hlavne mesto Svedska?
+6 Dublin Ake je hlavne mesto Irska?
+7 Londyn Ake je hlavne mesto Velkej Britanie?
+8 Lisabon Ake je hlavne mesto Portugalska?
+9 Madrid Ake je hlavne mesto Spanielska?
+10 Pariz Ake je hlavne mesto Francuzka?
+11 Brusel Ake je hlavne mesto Belgicka?
+12 Luxemburg Ake je hlavne mesto Luxemburska?
+13 Amsterdam Ake je hlavne mesto Holandska?
+14 Berlin Ake je hlavne mesto Nemecka?
+15 Vieden Ake je hlavne mesto Rakuska?
+16 Vaduz Ake je hlavne mesto Lichtenstajnska?
+17 Bern Ake je hlavne mesto Svajciarska?
+18 Praha Ake je hlavne mesto Ceskej republiky?
+19 Budapest Ake je hlavne mesto Madarska?
+20 Varsava Ake je hlavne mesto Polska?
+21 Monaco Ake je klavne mesto Monaka?
+22 Reykjavik Ake je klavne mesto Islandu?
+23 Rim Ake je klavne mesto Talianska?
+24 Ateny Ake je hlavne mesto Grecka?
+25 Tirana Ake je hlavne mesto Albanska?
+26 Skopje Ake je hlavne mesto Macedonska?
+27 Belehrad Ake je hlavne mesto Srbska?
+28 Podgorica Ake je hlavne mesto Ciernej Hory?
+29 Sarajevo Ake je hlavne mesto Bosny a Hercegovina?
+30 Zahreb Ake je hlavne mesto Chorvatska?
+31 Lublana Ake je hlavne mesto Slovinska?
+32 Sofia Ake je hlavne mesto Bulharska?
+33 Bukurest Ake je hlavne mesto Rumunska?
+34 Kyjev Ake je hlavne mesto Ukrajiny?
+35 Minsk Ake je hlavne mesto Bieloruska?
+36 Vilnius Ake je hlavne mesto Litvy?
+37 Tallin Ake je hlavne mesto Estonska?
+38 Moskva Ake je hlavne mesto Ruska?
